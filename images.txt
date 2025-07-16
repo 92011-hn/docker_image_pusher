@@ -1,1 +1,1 @@
-kalilinux/kali-rolling
+oracleinanutshell/oracle-xe-11g
